@@ -1,0 +1,23 @@
+{
+  "name": "node-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "alternative-flavor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedNibras/Node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedNibras/Node/issues"
+  },
+  "homepage": "https://github.com/AhmedNibras/Node#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "lodash": "^4.17.21"
+  }
+}
